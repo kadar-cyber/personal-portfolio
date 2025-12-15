@@ -78,6 +78,5 @@ This is a simple personal portfolio website built using HTML and CSS.
       </section>
 </body>
     </html>
-}
-</head>
+
 
