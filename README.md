@@ -69,8 +69,8 @@ This is a simple personal portfolio website built using HTML and CSS.
 <li>Student Attendance App</li>
 <li>Simple Calculator</li>
       <section id="contact">
-        <p>Email: example@gmail.com</p>
-<p>Phone: +91 XXXXXXXXXX</p>
+        <p>Email: kadri@gmail.com</p>
+<p>Phone: +91 6312xxxxxx</p>
         <a href="#" class="btn">Download Resume</a>
         <footer>
   <p>© 2025 Kadreshkumar V N</p>
@@ -80,4 +80,4 @@ This is a simple personal portfolio website built using HTML and CSS.
     </html>
 }
 </head>
->/
+
